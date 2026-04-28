@@ -20,6 +20,7 @@ A versão `0.2` melhora a base inicial com:
 ```text
 .
 ├── importar-membros-dg.ps1
+├── importar-membros-dg-refatorado.ps1
 ├── secret
 ├── README.md
 ├── VERSIONLOG.md
