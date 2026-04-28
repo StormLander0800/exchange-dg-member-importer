@@ -20,6 +20,7 @@ A versão `0.2` melhora a base inicial com:
 ```text
 .
 ├── importar-membros-dg.ps1
+├── secret
 ├── README.md
 ├── VERSIONLOG.md
 ├── .gitignore
@@ -141,7 +142,7 @@ Total Falhas: 1
 Logs em: C:\Users\SeuUsuario\Desktop\Import-Logs
 ```
 
-## Melhorias futuras sugeridas
+## Melhorias futuras
 
 - validar previamente se o grupo existe;
 - validar previamente se o usuário existe;
